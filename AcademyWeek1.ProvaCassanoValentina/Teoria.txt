@@ -1,0 +1,11 @@
+1-  Le Value Type sono dei dati contennti sempre un valore, di proprietà null. Li ritroviamo nei tipi primitivi, negli struct, negli enum e in tutti gli altri metodi contenenti valori all'interno di un programma.
+Le Reference Type sono invece tipi Object, Class, String ed Interface (quindi dei tipi di proprietà della programmazione OO) e il loro valore è conservato nella struttura dati.
+
+
+2- .NET è una piattaforma fornita da Microsoft open source e gratuita cui permette di lavorare su un ambiente di esecuzione. 
+Funziona su tutti i SO e si basa sui linguaggi C#, F# e VB. 
+
+3- Vi sono varie differenze fra il  .Net FrameWork e il .NetCore. Il .NetFramework, proprietà di Microsoft e perciò compatibile solo con i suoi sistemi operativi, nasce nel 2002 e si basa sulle API e
+gli applicativi ASP.Net.
+Il .NET Core, nato nel 2014, è una Piattaforma Cross con framework open source e sviluppato per essere ottimizzato sulle moderne tecnologie nonostante sia anche lui di proprietà di Microsoft.
+Viene utilizzato per la creazione di applicativi che girano su sistemi operativi ma non supporta la creazione di interfacce applicative desktop.

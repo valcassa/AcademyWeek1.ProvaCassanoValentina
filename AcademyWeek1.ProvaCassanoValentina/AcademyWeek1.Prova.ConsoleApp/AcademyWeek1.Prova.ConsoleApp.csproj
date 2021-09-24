@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <ApplicationIcon />
+    <OutputType>Exe</OutputType>
+    <StartupObject />
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AcademyWeek1.AdoRepository\AcademyWeek1.Prova.AdoRepository.csproj" />
+    <ProjectReference Include="..\AcademyWeek1.Prova.Core\AcademyWeek1.Prova.Core.csproj" />
+  </ItemGroup>
+
+</Project>
